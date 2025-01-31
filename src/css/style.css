@@ -98,7 +98,7 @@ img {
   }
 }
 .header-menu::before {
-  content: "";
+    content: "";
     background-image: url(../images/burger.webp);
     background-position: center;
     background-repeat: no-repeat;
